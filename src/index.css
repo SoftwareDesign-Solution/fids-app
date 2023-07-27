@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply p-10;
+}
+
+.active{
+  @apply font-bold underline;
+}

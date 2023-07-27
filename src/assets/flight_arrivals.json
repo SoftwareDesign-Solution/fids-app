@@ -1,0 +1,34 @@
+[
+    {
+        "flight_date": "2015-12-01",
+        "flight_status": "landed",
+        "iata": "LH",
+        "flight": {
+            "number": "400"
+        },
+        "arrival": {
+            "airport": "Frankfurt",
+            "scheduled": "2015-12-01T11:15:00+01:00",
+            "estimated": "2015-12-01T11:15:00+01:00",
+            "actual": "2015-12-01T11:15:00+01:00"
+        },
+        "gate": "A1"
+    },
+    {
+        "flight_date": "2015-12-01",
+        "flight_status": "landed",
+        "iata": "LH",
+        "flight": {
+            "number": "400"
+        },
+        "arrival": {
+            "airport": "Frankfurt",
+            "scheduled": "2015-12-01T11:15:00+01:00",
+            "estimated": "2015-12-01T11:15:00+01:00",
+            "actual": "2015-12-01T11:15:00+01:00"
+        },
+        "gate": "A1"
+    }
+
+
+]
